@@ -1,0 +1,216 @@
+@import "mixins.scss";
+
+// === VARIABLES ===
+//Main text color:
+$mtcolor: #fff;
+$milk: #F7F7F7;
+$black: #212121;
+$black-pure: #000;
+$black-transp-35:rgba(0,0,0,0.35);
+$black-transp-60:rgba(0,0,0,0.6);
+$black-transp-85:rgba(0,0,0,0.85);
+$black-transp-95:rgba(0,0,0,0.95);
+$midnight-black:#1C2227;
+$cyan: #01c5d6;
+$blue:#52a4da;
+$green: #c3e54b;
+$silver: #C2C2C2;
+$grey: #DFE3E5;
+$orange: #FC9F3E;
+$red: #e36d4a;
+$pink: #FF8AC4;
+$yellow: #ffff00;
+$bronze: #cd7f32;
+//Features short colors:
+$f-green:#7ac043;
+$f-orange:#f16422;
+$f-red:#bf202f;
+$f-violet:#682d91;
+$f-blue:#01abd0;
+$f-cyan:#089f77;
+
+
+
+
+/*TITLE PAGE BG IMG ANIMATION*/
+@include keyframes(imageAnimation) {
+    0% {
+	    @include opacity(0);
+	    @include animation-timing-function(ease-in);
+	}
+	8% {
+		@include opacity(1);
+	    @include transform(scale(1.05));
+	    @include animation-timing-function(ease-out);
+	}
+	17% {
+		@include opacity(1);
+	    @include transform(scale(1.1));
+	}
+	25% {
+	    @include opacity(0);
+	    @include transform(scale(1.1));
+	}
+	100% { 
+		@include opacity(0); 
+	}
+}
+
+/*TITLE PAGE CATEGORY NAME ANIMATION*/
+@include keyframes(titleAnimation) {
+    0% {
+    	visibility: visible;
+	    @include opacity(0);
+	    @include transform(translate3d(200px, 0, 0));
+	}
+	8% {
+		@include opacity(1);
+	    @include transform(none);
+	}
+	17% {
+		@include opacity(1);
+	    @include transform(none);
+	}
+	19% {
+		@include opacity(0);
+	    @include transform(translate3d(-400px, 0, 0));
+	}
+	25% {
+		visibility: hidden;
+	    @include opacity(0);
+	}
+	100% { 
+		@include opacity(0); 
+	}
+}
+
+/*TOP MENU BTN'S ICON ANIMATION*/
+@include keyframes(icon-in) {
+    from {
+    	@include opacity(0);
+    }
+    to {
+    	@include opacity(1);
+    }
+}
+@include keyframes(icon-out) {
+    from {
+    	@include opacity(1);
+    }
+    to {
+    	@include opacity(0);
+    }
+}
+
+/*SEARCH FIELD ANIMATION*/
+@include keyframes(search-in) {
+    from {
+    	@include opacity(0);
+    	@include transform(translate3d(100%, 0, 0));
+    }
+    to {
+    	@include opacity(1);
+    	@include transform(none);
+    }
+}
+@include keyframes(search-out) {
+    from {
+    	@include opacity(1);
+    	@include transform(none);
+    }
+    to {
+    	@include opacity(0);
+    	@include transform(translate3d(100%, 0, 0));
+    }
+}
+
+
+/*SMALL MENU ANIMATION*/
+@include keyframes(sm-menu-in) {
+    from {
+    	@include opacity(0);
+    	@include transform(translate3d(-100%, 0, 0));
+    }
+    to {
+    	@include opacity(1);
+    	@include transform(none);
+    }
+}
+@include keyframes(sm-menu-out) {
+    from {
+    	@include opacity(1);
+    	@include transform(none);
+    }
+    to {
+    	@include opacity(0);
+    	@include transform(translate3d(-100%, 0, 0));
+    }
+}
+
+/*LARGE MENU ANIMATION*/
+@include keyframes(lg-menu-in) {
+    from {
+    	@include opacity(0);
+    	@include transform(translate3d(0, 10%, 0));
+    }
+    to {
+    	@include opacity(1);
+    	@include transform(none);
+    }
+}
+@include keyframes(lg-menu-out) {
+    from {
+    	@include opacity(1);
+    	@include transform(none);
+    }
+    to {
+    	@include opacity(0);
+    	@include transform(translate3d(0, 10%, 0));
+    }
+}
+
+/*TRANSPORT MOVE IMGS ANIMATION*/
+@include keyframes(move-img-in) {
+    from {
+    	@include opacity(0);
+    	@include transform(translate3d(100%, 0, 0));
+    }
+    to {
+    	@include opacity(1);
+    	@include transform(none);
+    }
+}
+
+
+
+/*ng-cloak styles, which don't work as expected, unfortunately...*/
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+
+html, body {
+	height:100%;
+	min-height:100%;
+}
+
+body {
+	min-width:275px;
+	font-family:Verdana,sans-serif;
+	background: $milk;
+	color:$black;
+	font-weight: 400;
+	font-size: 16px;
+	position: relative;
+	overflow-x:hidden;
+
+	.container {
+		@include bp-xxlarge {
+			width: 1370px;
+		}
+	}
+}
+
+.ie7 body{
+	overflow:hidden;
+}

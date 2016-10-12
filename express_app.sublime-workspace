@@ -1,0 +1,1008 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rect",
+				"rect3"
+			],
+			[
+				"re",
+				"rect2"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"success",
+				"successfully"
+			],
+			[
+				"replyTo",
+				"replyToUserId"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"date",
+				"dateFilterFn"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"icon",
+				"iconsFA"
+			],
+			[
+				"new",
+				"newArt"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"nwe",
+				"newArt"
+			],
+			[
+				"bp-x",
+				"bp-xmedium"
+			],
+			[
+				"m",
+				"myVal"
+			],
+			[
+				"wat",
+				"watchMe"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"arti",
+				"article"
+			],
+			[
+				"art",
+				"artImgs"
+			],
+			[
+				"user",
+				"userIcon"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"lpc-map",
+				"lpc-map-wrapper"
+			],
+			[
+				"gre",
+				"greyer-dark"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"bla",
+				"black-transp"
+			],
+			[
+				"bp",
+				"bp-medium"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"deliv",
+				"deliveryRu"
+			],
+			[
+				"li",
+				"light-grey"
+			],
+			[
+				"produc",
+				"productId"
+			],
+			[
+				"prod",
+				"productId"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"titl",
+				"titleUkr"
+			],
+			[
+				"promo",
+				"promotions"
+			],
+			[
+				"tit",
+				"titleUkr"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"ord",
+				"orders"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"social",
+				"socialLink1"
+			],
+			[
+				"address",
+				"addressRu1"
+			],
+			[
+				"ph",
+				"phone3"
+			],
+			[
+				"pho",
+				"phone2"
+			],
+			[
+				"phon",
+				"phone1"
+			],
+			[
+				"blu",
+				"blue-transp"
+			],
+			[
+				"clos",
+				"closeModal"
+			],
+			[
+				"dele",
+				"deleteUser"
+			],
+			[
+				"admin",
+				"adminData"
+			],
+			[
+				"des",
+				"descrRu"
+			],
+			[
+				"resul",
+				"result_id"
+			],
+			[
+				"sco",
+				"scope"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"desc",
+				"descrRu"
+			],
+			[
+				"whit",
+				"white-transp-lighter"
+			],
+			[
+				"bal",
+				"black-transp-light"
+			],
+			[
+				"lig",
+				"light-yellow"
+			],
+			[
+				"blue",
+				"dark-blue"
+			],
+			[
+				"text-s",
+				"text-stroke"
+			],
+			[
+				"ap",
+				"apiUrl"
+			],
+			[
+				"Еле",
+				"Електросамокати"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"avai",
+				"availspi"
+			],
+			[
+				"upI",
+				"upImagesArray"
+			],
+			[
+				"ava",
+				"availspi"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"de",
+				"destination"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"imga",
+				"imageFileType"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"for",
+				"formatAsUrl"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"S",
+				"StartpageImagesCtrl"
+			],
+			[
+				"star",
+				"startPageImages"
+			],
+			[
+				"app",
+				"approved"
+			],
+			[
+				"all",
+				"all-customers"
+			],
+			[
+				"cus",
+				"customer"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"add",
+				"addExtraData"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ad",
+				"adminData"
+			],
+			[
+				"ge",
+				"getName"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"whi",
+				"white-transp-lighter"
+			],
+			[
+				"bl",
+				"black-transp-light"
+			],
+			[
+				"border",
+				"border-radius-composite"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bp-",
+				"bp-large"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"order",
+				"orderId"
+			],
+			[
+				"orde",
+				"orderForm"
+			],
+			[
+				"Эле",
+				"Электроскутеры"
+			],
+			[
+				"Ги",
+				"Гироборды"
+			],
+			[
+				"a",
+				"accessories"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"min",
+				"minPriceFilterFn"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"bpx",
+				"bp-xsmall"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"price",
+				"priceSlider"
+			],
+			[
+				"so",
+				"sortedProducts"
+			],
+			[
+				"bran",
+				"brandFilterFn"
+			],
+			[
+				"c",
+				"customData"
+			],
+			[
+				"bra",
+				"brandNames"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"stat",
+				"stateParams"
+			],
+			[
+				"btm",
+				"btm-menu-height"
+			],
+			[
+				"f",
+				"furoreregular"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"white",
+				"white-transp"
+			],
+			[
+				"mt",
+				"mtcolor"
+			],
+			[
+				"ger",
+				"greyer-dark"
+			],
+			[
+				"pos",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 971,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "typeScript",
+		"selected_items":
+		[
+			[
+				"typeScript",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"git status",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/expressapp",
+		"/C/xampp/htdocs/expressapp/app",
+		"/C/xampp/htdocs/expressapp/app/components"
+	],
+	"file_history":
+	[
+		"/E/Programming/Examples/Canvas/Gruntfile.js",
+		"/C/xampp/htdocs/expressapp/server.js",
+		"/E/Programming/Examples/Canvas/index.html",
+		"/E/Programming/Examples/Canvas/js/script.js",
+		"/C/xampp/htdocs/expressapp/package.json",
+		"/E/Programming/Examples/Canvas/sass/main.scss",
+		"/C/xampp/htdocs/expressapp/assets/js/body/custom.body.js",
+		"/E/animate.css",
+		"/E/Programming/Examples/Game-Canvas/package.json",
+		"/E/Programming/Examples/Canvas/package.json",
+		"/E/Programming/Examples/Game-Canvas/index.html",
+		"/E/Programming/Examples/Game-Canvas/sass/main.scss",
+		"/C/Users/olegichh/Downloads/Farris.js-master/Farris.js-master/player.js",
+		"/C/Users/olegichh/Downloads/Farris.js-master/Farris.js-master/main.js",
+		"/C/Users/olegichh/Downloads/Farris.js-master/Farris.js-master/Farris.js",
+		"/E/Programming/Examples/Game-Canvas/js/rectangular.js",
+		"/E/Programming/Examples/Game-Canvas/js/script.js",
+		"/E/Programming/Examples/Design Patterns/Design Patterns.js",
+		"/E/Programming/Examples/JS Utility functions/jsUtilities.js",
+		"/C/xampp/htdocs/blog/index.html",
+		"/E/Programming/Examples/A2 tutorials/app.ts",
+		"/E/Programming/Examples/A2 tutorials/index.html",
+		"/E/Programming/Examples/Script for 500px.js",
+		"/C/Users/olegichh/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.last-run",
+		"/C/Users/olegichh/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.cache/01524fae79697630d0454ba3fabd9414",
+		"/E/Programming/Examples/SVG tuts/css/main.css",
+		"/E/Programming/Examples/SVG tuts/sass/main.scss",
+		"/E/Programming/Examples/Pubsub js/pubsub.js",
+		"/E/Programming/Examples/SVG tuts/index.html",
+		"/E/Programming/Examples/SVG tuts/Gruntfile.js",
+		"/C/xampp/htdocs/blog/package.json",
+		"/C/xampp/htdocs/cald/css/main.css",
+		"/C/xampp/htdocs/cald/js/app.js",
+		"/C/xampp/htdocs/cald/rest/api.php",
+		"/C/xampp/htdocs/cald/php/page.php",
+		"/C/xampp/htdocs/cald/php/api.php",
+		"/C/xampp/htdocs/cald/partials/header.html",
+		"/C/xampp/htdocs/cald/partials/frontpage.html",
+		"/C/xampp/htdocs/blog/dist/index.html",
+		"/C/xampp/htdocs/blog/app/components/common/servMain.js",
+		"/C/xampp/htdocs/blog/app/components/common/MainCtrl.js",
+		"/C/xampp/htdocs/blog/dist/php/api.php",
+		"/E/Programming/Examples/node_EX/ex_1.js",
+		"/C/xampp/htdocs/blog/assets/sass/main.scss",
+		"/C/xampp/htdocs/blog/app/routes.js",
+		"/C/xampp/htdocs/bsw/php/.htaccess",
+		"/C/xampp/htdocs/blog/app/components/admin/arts/art.html",
+		"/C/xampp/htdocs/blog/app/components/articles/mainArtsCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/articles/popular/populararts.html",
+		"/C/xampp/htdocs/blog/app/components/articles/post.html",
+		"/C/xampp/htdocs/blog/app/components/articles/articles.html",
+		"/C/xampp/htdocs/blog/app/components/articles/mainarts.html",
+		"/C/xampp/htdocs/blog/php/api.php",
+		"/C/xampp/htdocs/blog/app/app.js",
+		"/C/xampp/htdocs/blog/app/components/articles/lastcomments/lastcomments.html",
+		"/C/xampp/htdocs/blog/app/components/account/AccountCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/admin/users/users.html",
+		"/C/xampp/htdocs/blog/app/components/admin/comments/comments.html",
+		"/C/xampp/htdocs/blog/app/components/admin/categories/categories.html",
+		"/C/xampp/htdocs/blog/app/components/admin/arts/arts.html",
+		"/C/xampp/htdocs/blog/app/components/topmenu/topMenuCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/pagination/pagesCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/articles/postCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/articles/articlesCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/admin/users/UsersCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/admin/users/UserCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/admin/AdminCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/admin/comments/commodal.html",
+		"/C/xampp/htdocs/blog/app/components/admin/comments/CommentsCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/admin/categories/CategoryCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/admin/comments/CommentCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/admin/arts/NewArtCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/admin/arts/ArtsCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/admin/arts/ArtCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/account/accountView.html",
+		"/C/xampp/htdocs/blog/app/components/admin/todo/todo.html",
+		"/C/xampp/htdocs/blog/app/components/admin/trackviews/trackviews.html",
+		"/C/xampp/htdocs/blog/app/components/admin/users/user.html",
+		"/C/xampp/htdocs/blog/app/components/admin/comments/comment.html",
+		"/C/xampp/htdocs/blog/app/components/admin/arts/newart.html",
+		"/C/xampp/htdocs/blog/app/components/admin/arts/artmodal.html",
+		"/C/xampp/htdocs/blog/app/components/admin/adminMain.html",
+		"/C/xampp/htdocs/blog/app/components/admin/dashboard.html",
+		"/C/xampp/htdocs/blog/app/components/articles/servicesArt.js",
+		"/C/xampp/htdocs/blog/app/components/userbar/userbar.html",
+		"/C/xampp/htdocs/bsw/app/components/common/services.js",
+		"/C/xampp/htdocs/bsw/app/routes.js",
+		"/C/xampp/htdocs/blog/app/components/admin/utils.js",
+		"/C/xampp/htdocs/blog/app/components/articles/directivesArt.js",
+		"/C/xampp/htdocs/bikeride/assets/sass/main.scss",
+		"/C/xampp/htdocs/bikeride/app/components/titlepage/title.html",
+		"/C/xampp/htdocs/blog/app/components/headslides/bg.html",
+		"/C/xampp/htdocs/bikeride/app/components/home/header/header.html",
+		"/C/xampp/htdocs/bikeride/app/components/shop/ShopCtrl.js",
+		"/C/xampp/htdocs/bikeride/app/components/shop/shop.html",
+		"/C/xampp/htdocs/bikeride/app/components/home/HomeCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/topmenu/topmenu.html",
+		"/C/xampp/htdocs/blog/app/components/common/footer.html",
+		"/C/xampp/htdocs/bikeride/php/api.php",
+		"/C/xampp/htdocs/blog/app/components/common/main.html",
+		"/C/xampp/htdocs/blog/app/components/articles/filtersArt.js",
+		"/C/xampp/htdocs/bikeride/app/components/admin/categories/CategoryCtrl.js",
+		"/C/xampp/htdocs/bikeride/app/components/admin/categories/category.html",
+		"/C/xampp/htdocs/bikeride/app/components/admin/products/prod.html",
+		"/C/xampp/htdocs/blog/app/components/admin/users/usermodal.html",
+		"/C/xampp/htdocs/blog/assets/lib/bootstrap-css-only/css/bootstrap.css",
+		"/C/xampp/htdocs/blog/app/components/admin/trackviews/TrackviewsCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/admin/DashboardCtrl.js",
+		"/C/xampp/htdocs/bikeride/app/components/shop/shopFilters.js",
+		"/C/xampp/htdocs/bikeride/app/components/shop/product/ProductCtrl.js",
+		"/C/xampp/htdocs/bikeride/app/components/admin/DashboardCtrl.js",
+		"/C/xampp/htdocs/bikeride/app/components/main/servMain.js",
+		"/C/xampp/htdocs/blog/php/dbStructure.sql",
+		"/C/xampp/htdocs/bikeride/php/dbStructure.sql",
+		"/C/xampp/htdocs/bikeride/app/components/admin/AdminCtrl.js",
+		"/C/xampp/htdocs/bikeride/app/routes.js",
+		"/C/xampp/htdocs/bikeride/app/components/admin/orders/order.html",
+		"/C/xampp/htdocs/bikeride/app/components/admin/customers/customer.html",
+		"/C/xampp/htdocs/blog/app/components/admin/categories/category.html",
+		"/C/xampp/htdocs/blog/app/components/admin/categories/newcat.html",
+		"/C/xampp/htdocs/blog/app/components/admin/categories/NewCatCtrl.js",
+		"/C/xampp/htdocs/blog/app/components/admin/categories/iconsFa.js",
+		"/C/Users/olegichh/Downloads/SMK-Font-Awesome-PHP-JSON-4.4.0/font-awesome/json/font-awesome-data-readable.json",
+		"/C/Users/olegichh/Downloads/SMK-Font-Awesome-PHP-JSON-4.4.0/font-awesome/php/font-awesome-data-readable.php",
+		"/C/xampp/htdocs/blog/app/components/admin/categories/CategoriesCtrl.js",
+		"/C/xampp/htdocs/bikeride/app/components/landingpage/landing.html",
+		"/C/xampp/htdocs/blog/app/components/common/numberOnly.js",
+		"/C/xampp/htdocs/blog/app/components/admin/arts/blockChange.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\blog\\app",
+			"C:\\xampp\\htdocs\\blog\\app\\components\\admin",
+			"C:\\xampp\\htdocs\\blog\\app\\components\\articles",
+			"C:\\xampp\\htdocs\\blog\\app",
+			"C:\\xampp\\htdocs\\blog\\app\\components",
+			"C:\\xampp\\htdocs\\blog",
+			"C:\\xampp\\htdocs\\bikeride",
+			"C:\\xampp\\htdocs\\bikeride\\app\\components\\admin",
+			"C:\\xampp\\htdocs\\bikeride"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"step",
+			" - offset",
+			"shape",
+			"this",
+			"x",
+			"width",
+			"logo",
+			"babysmar_db",
+			"min",
+			"'image'",
+			"image",
+			"a.image",
+			"image",
+			"<img ng-src=\"{{",
+			".image",
+			"image",
+			"ng-show=\"{{article.image}}\"",
+			"ng-show image",
+			"user",
+			"obj",
+			"user",
+			"Пошук...",
+			"Поиск...",
+			"Пошук",
+			"Пошук...",
+			"<",
+			"Пошук...",
+			"Поиск...",
+			"Сохранить",
+			"Это поле должно быть заполненным",
+			"Главная",
+			"<iframe",
+			"<iframe src=\"\" frameborder=\"0\" autohide=\"1\" allowfullscreen ng-show=\"{{article.video}}\"></iframe>",
+			"iframe",
+			"views",
+			"COMMENTS",
+			"cm-menu-items-sm",
+			"top-menu",
+			"siteEmail",
+			"newCat",
+			"form.mailForm",
+			"utils",
+			".content",
+			"deleteUser",
+			"c",
+			"a",
+			"<form",
+			"form",
+			"Form",
+			"form",
+			"Form",
+			"form",
+			"Form",
+			"form",
+			"Form",
+			"form",
+			"Form",
+			"form",
+			"Form",
+			"form",
+			"form ",
+			"form.uploadForm",
+			"#wra",
+			"name=\"imgfile\" ",
+			"ngf-validate",
+			" <div class=\"alert alert-danger\"",
+			"form.uploadForm.imgfile.$error",
+			"НЕТ",
+			"ДА",
+			"deleteUser",
+			"	\n",
+			"table-hover",
+			"Подробнее",
+			"prodId",
+			"p",
+			"product",
+			"art",
+			"artcl",
+			"$scope.article",
+			"com.",
+			"article.",
+			");\n",
+			"typeof",
+			"art",
+			"artmodal",
+			"deleteArt",
+			"category",
+			"art",
+			"category",
+			"title",
+			"authorName",
+			"user",
+			"users",
+			"<p>",
+			"$scope.imageError",
+			"$scope.article",
+			"$stmt->get_result",
+			"USER",
+			"deleteArt",
+			"enName",
+			"ukrName",
+			"ruName",
+			"enName",
+			"src",
+			"newcat-data",
+			"src",
+			"category.",
+			"latinName",
+			"en-name",
+			"enName",
+			"ruName",
+			"ru-",
+			"src",
+			"updateCat",
+			":",
+			"<p>",
+			"enName",
+			"image",
+			"ruName",
+			"main.",
+			"$filter",
+			"catEn",
+			"catId",
+			"price",
+			"ukrName",
+			"addPro",
+			"newProd",
+			"ukr-name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Пошук...",
+			"<uib-alert type=\"success\"",
+			"<uib-alert type=\"danger\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "express_app.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
