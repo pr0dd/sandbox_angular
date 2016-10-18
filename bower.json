@@ -1,6 +1,6 @@
 {
   "name": "sandbox",
-  "description": "test task",
+  "description": "angular sandbox",
   "main": "index.js",
   "authors": [
     "oleg.ch"

@@ -411,6 +411,7 @@
     -ms-transform: translate3d(-100%, 0, 0);
     -o-transform: translate3d(-100%, 0, 0);
     transform: translate3d(-100%, 0, 0); } }
+
 /*TRANSPORT MOVE IMGS ANIMATION*/
 @-webkit-keyframes move-img-in {
   from {
@@ -497,6 +498,7 @@
     -ms-transform: none;
     -o-transform: none;
     transform: none; } }
+
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
   display: none !important; }
 

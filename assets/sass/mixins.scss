@@ -1,6 +1,7 @@
 // Custom mixins:
 
 // Absolute position:
+
 @mixin abs-pos ($top: auto, $right: auto, $bottom: auto, $left: auto) {
   top: $top;
   right: $right;
@@ -10,6 +11,7 @@
 }
 
 // Breakpoints:
+
 @mixin bp-xxlarge {
   @media only screen and (min-width: 1500px) {
     @content;
@@ -59,6 +61,7 @@
 }
 
 // Transition:
+
 @mixin transition($args...) {
   -webkit-transition: $args;
   -moz-transition: $args;
@@ -68,6 +71,7 @@
 }
 
 // Transform:
+
 @mixin transform($args...) {
   -webkit-transform: $args;
   -moz-transform: $args;
@@ -77,6 +81,7 @@
 }
 
 // Background:
+
 @mixin background($args...) {
   -webkit-background: $args;
   -moz-background: $args;
@@ -85,6 +90,7 @@
 }
 
 // Horizontal gradient:
+
 @mixin gradient-horizontal($start-color: #555, $end-color: #333, $start-percent: 0%, $end-percent: 100%) {
   background-image: -webkit-linear-gradient(left, $start-color $start-percent, $end-color $end-percent); // Safari 5.1-6, Chrome 10+
   background-image: -o-linear-gradient(left, $start-color $start-percent, $end-color $end-percent); // Opera 12
@@ -94,6 +100,7 @@
 }
 
 // Background Gradient - Left to Right:
+
 @mixin bg-gradient-l2r($start-colour, $end-colour) {
     background-color: $start-colour;
     background-image: -webkit-gradient(linear, left top, right top, from($start-colour), to($end-colour));
@@ -106,6 +113,7 @@
 }
 
 // Background Gradient - Three colors - Vertical:
+
 @mixin bg-gradient-3clr-v($start-color: #00b3ee, $mid-color: #7a43b6, $color-stop: 50%, $end-color: #c3325f) {
   background-color: $start-color;
   background-image: -webkit-linear-gradient($start-color, $mid-color $color-stop, $end-color);
@@ -117,6 +125,7 @@
 }
 
 // Background Gradient - Two colors - Vertical:
+
 @mixin bg-gradient-2clr-v($start-color: #00b3ee, $end-color: #c3325f) {
   background-color: $start-color;
   background-image: -webkit-linear-gradient($start-color, $end-color);
@@ -128,6 +137,7 @@
 }
 
 // Background Gradient - Three colors - Horizontal:
+
 @mixin bg-gradient-3clr-h($start-color: #00b3ee, $mid-color: #7a43b6, $color-stop: 50%, $end-color: #c3325f) {
   background-color: $start-color;
   background-image: -webkit-linear-gradient(left, $start-color, $mid-color $color-stop, $end-color);
@@ -139,6 +149,7 @@
 }
 
 // Filter:
+
 @mixin filter($args...) {
   -webkit-filter: $args;
   -moz-filter: $args;
@@ -148,6 +159,7 @@
 }
 
 // Animations and keyframes:
+
 @mixin keyframes($animation-name) {
   @-webkit-keyframes #{$animation-name} {
     @content;
@@ -191,6 +203,7 @@
 }
 
 // Cross browser opacity:
+
 @mixin opacity($opacity) {
   opacity: $opacity;
   $opacity-ie: $opacity * 100;
@@ -198,6 +211,7 @@
 }
 
 // Clearfix:
+
 %clearfix {
   *zoom: 1;
   &:before, &:after {
@@ -215,6 +229,7 @@
 // }
 
 // Cross browser border-radius:
+
 @mixin border-radius($radius: 5px) {
   -webkit-border-radius: $radius;
   -moz-border-radius: $radius;
@@ -224,6 +239,7 @@
 }
 
 // Backface-visibility:
+
 @mixin backface-visibility($args...) {
   -webkit-backface-visibility: $args;
   -moz-backface-visibility: $args;
@@ -231,6 +247,7 @@
 }
 
 // Composite border-radius:
+
 @mixin border-radius-composite($args...) {
   -webkit-border-radius: $args;
   -moz-border-radius: $args;
@@ -250,6 +267,7 @@
 }
 
 // Custom box shadow:
+
 @mixin box-shadow-custom($args...) {
   -webkit-box-shadow: $args;
   -moz-box-shadow: $args;
@@ -257,6 +275,7 @@
 }
 
 // Stroke:
+
 @mixin text-stroke ($color: #000) {
   text-shadow:  -1px -1px 0 $color, 1px -1px 0 $color,-1px 1px 0 $color, 1px 1px 0 $color;
 }

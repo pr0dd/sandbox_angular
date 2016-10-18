@@ -1,7 +1,7 @@
 {
   "name": "sandbox",
   "version": "1.0.0",
-  "description": "test task",
+  "description": "angular sandbox",
   "main": "index.js",
   "repository": {
     "type": "git",
