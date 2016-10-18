@@ -1,0 +1,32 @@
+@import "mixins.scss";
+@import "variables.scss";
+@import "animations.scss";
+
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+
+html, body {
+	height:100%;
+	min-height:100%;
+}
+
+body {
+	min-width:300px;
+	font-family:Verdana,sans-serif;
+	background: $milk;
+	color:$black;
+	font-weight: 400;
+	font-size: 16px;
+	position: relative;
+	overflow-x:hidden;
+    //extend BS .container:
+	.container {
+		@include bp-xxlarge {
+			width: 1370px;
+		}
+	}
+}
+

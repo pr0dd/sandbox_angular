@@ -1,0 +1,75 @@
+
+/*TOP MENU BTN'S ICON ANIMATION*/
+@include keyframes(icon-in) {
+    from {
+    	@include opacity(0);
+    }
+    to {
+    	@include opacity(1);
+    }
+}
+@include keyframes(icon-out) {
+    from {
+    	@include opacity(1);
+    }
+    to {
+    	@include opacity(0);
+    }
+}
+
+/*SEARCH FIELD ANIMATION*/
+@include keyframes(search-in) {
+    from {
+    	@include opacity(0);
+    	@include transform(translate3d(100%, 0, 0));
+    }
+    to {
+    	@include opacity(1);
+    	@include transform(none);
+    }
+}
+@include keyframes(search-out) {
+    from {
+    	@include opacity(1);
+    	@include transform(none);
+    }
+    to {
+    	@include opacity(0);
+    	@include transform(translate3d(100%, 0, 0));
+    }
+}
+
+
+/*SMALL MENU ANIMATION*/
+@include keyframes(sm-menu-in) {
+    from {
+    	@include opacity(0);
+    	@include transform(translate3d(-100%, 0, 0));
+    }
+    to {
+    	@include opacity(1);
+    	@include transform(none);
+    }
+}
+@include keyframes(sm-menu-out) {
+    from {
+    	@include opacity(1);
+    	@include transform(none);
+    }
+    to {
+    	@include opacity(0);
+    	@include transform(translate3d(-100%, 0, 0));
+    }
+}
+
+/*TRANSPORT MOVE IMGS ANIMATION*/
+@include keyframes(move-img-in) {
+    from {
+    	@include opacity(0);
+    	@include transform(translate3d(100%, 0, 0));
+    }
+    to {
+    	@include opacity(1);
+    	@include transform(none);
+    }
+}
